@@ -122,5 +122,6 @@ new DataTable('#example', {
 <script src="https://cdn.datatables.net/buttons/3.0.2/js/buttons.bootstrap5.js"></script>
 <script src="https://cdn.datatables.net/buttons/3.0.2/js/buttons.print.min.js"></script>
 </body>
+<x-blablabla></x-blablabla>
 
 </html>
